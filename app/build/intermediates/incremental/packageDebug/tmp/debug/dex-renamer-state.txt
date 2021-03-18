@@ -1,0 +1,4 @@
+#Thu Mar 18 11:48:09 NPT 2021
+base.0=E\:\\Android Studio Projects\\RecyclerViewChallenge\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
